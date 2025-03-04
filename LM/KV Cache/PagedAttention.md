@@ -25,3 +25,4 @@ lang: 'zh_CN'
 - 现有的系统无法充分利用内存共享，如 Parallel Sampling 和 Beam Search。
 
 为了解决上述挑战，PagedAttention 通过参考操作系统，将 KV Cache划分为 Block 进行统一管理，即一个 Block 管理固定数量的 Tokens，这就防止了存在外部片段，并且使得请求中和请求间能够实现内存的共享。
+
