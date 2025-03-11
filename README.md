@@ -6,14 +6,43 @@
 
 ## C++
 
-**C++ 语言基础知识以及进阶知识梳理。**
+### 笔记
+
+- [C++基础知识](./Language/C++基础.md)
+
+### 专业网站
+
+- [cplusplus.com](https://cplusplus.com/)
+
+- [cppreference.com](https://en.cppreference.com/w/)
+
+### 推荐书籍
+
+- [现代 C++ 教程: 高速上手 C++ 11/14/17/20](https://changkun.de/modern-cpp/)
+
+- [An Introduction to Modern CMake — Modern CMake](https://cliutils.gitlab.io/modern-cmake/README.html)
 
 ## CUDA
 
-**GPU 硬件相关知识及 CUDA 编程梳理及源代码。**
+### 自学课程
+
+- [GPU Mode](./CUDA/GPU%20Mode)
+
+### 算子实现
+
+- [Kernels](./CUDA/Kernels)
+
+### 参考资料
+
+- [CUDA编程入门极简教程](https://zhuanlan.zhihu.com/p/34587739)
+
+- [CUDA C Programming Guide 导读](https://zhuanlan.zhihu.com/p/53773183)
+
+- [谭升的博客](https://face2ai.com/)
 
 ## Large Model
 
-**大模型论文、基础知识整理，主要在于大模型推理加速工作。**
+- [LLM推理算法简述](https://zhuanlan.zhihu.com/p/685794495)
 
-1. [大模型推理框架源码梳理](./Large%20Model/Framework)
+- [缓存与效果的极限拉扯：从MHA、MQA、GQA到MLA](https://kexue.fm/archives/10091)
+
