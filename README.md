@@ -2,13 +2,7 @@
 
 个人学习笔记整理及学习资料整理，基础知识梳理。
 
-目前主要涉及 C++、CUDA、大模型相关的论文及其推理框架。
-
 ## C++
-
-### 笔记
-
-- [C++基础知识](./Language/C++基础.md)
 
 ### 专业网站
 
@@ -24,23 +18,26 @@
 
 ## CUDA
 
-### 自学课程
-
-- [GPU Mode](./CUDA/GPU%20Mode)
-
 ### 算子实现
 
 - [Kernels](./CUDA/Kernels)
 
 ### 参考资料
 
+- [谭升的博客](https://face2ai.com/)
 - [CUDA编程入门极简教程](https://zhuanlan.zhihu.com/p/34587739)
-
 - [CUDA C Programming Guide 导读](https://zhuanlan.zhihu.com/p/53773183)
 
-- [谭升的博客](https://face2ai.com/)
-
 ## Large Model
+
+### 笔记
+
+- [模型架构](./Large%20Model/Architectrue)
+- [需求调度](./Large%20Model/Scheduling)
+- [显存管理](./Large%20Model/Memory)
+- [推理框架](./Large%20Model/Framework)
+
+### 参考资料
 
 - [LLM推理算法简述](https://zhuanlan.zhihu.com/p/685794495)
 
