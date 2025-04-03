@@ -1,16 +1,16 @@
-# Learning-Notes
+# CS-Notes
 
-个人学习笔记整理及学习资料整理，基础知识梳理。
+This is a self-learning repo for recording notes for Languages, Operating systems, and etc.
 
-## C++
+## Cpp
 
-### 专业网站
+### Websites
 
 - [cplusplus.com](https://cplusplus.com/)
 
 - [cppreference.com](https://en.cppreference.com/w/)
 
-### 推荐书籍
+### Books
 
 - [现代 C++ 教程: 高速上手 C++ 11/14/17/20](https://changkun.de/modern-cpp/)
 
@@ -18,11 +18,11 @@
 
 ## CUDA
 
-### 算子实现
+### Kernels
 
 - [Kernels](./CUDA/Kernels)
 
-### 参考资料
+### Blogs
 
 - [谭升的博客](https://face2ai.com/)
 - [CUDA编程入门极简教程](https://zhuanlan.zhihu.com/p/34587739)
@@ -30,14 +30,14 @@
 
 ## Large Model
 
-### 笔记
+### Papers
 
 - [模型架构](./Large%20Model/Architectrue)
 - [需求调度](./Large%20Model/Scheduling)
 - [显存管理](./Large%20Model/Memory)
 - [推理框架](./Large%20Model/Framework)
 
-### 参考资料
+### Blogs
 
 - [LLM推理算法简述](https://zhuanlan.zhihu.com/p/685794495)
 

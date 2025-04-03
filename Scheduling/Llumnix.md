@@ -1,14 +1,3 @@
----
-title: Llumnix Dynamic Scheduling for Large Language Model Serving
-published: 2024-01-15
-description: 'The paper reading note for Llumnix'
-image: ''
-tags: [Scheduling]
-category: 'Paper'
-draft: false 
-lang: 'zh_CN'
----
-
 ## 论文概述
 
 论文标题：**Llumnix: Dynamic Scheduling for Large Language Model Serving**

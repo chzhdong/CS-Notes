@@ -1,14 +1,3 @@
----
-title: FlashAttention Fast and Memory-Efficient Exact Attention with IO-Awareness
-published: 2024-02-16
-description: 'The paper reading note for FlashAttention'
-image: ''
-tags: [Attention]
-category: 'Paper'
-draft: false 
-lang: 'zh_CN'
----
-
 ## 论文概述
 
 论文标题：**FlashAttention: Fast and Memory-Efficient Exact Attention  with IO-Awareness**

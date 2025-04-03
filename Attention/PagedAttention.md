@@ -1,14 +1,3 @@
----
-title: Efficient Memory Management for Large Language  Model Serving with PagedAttention
-published: 2024-12-25
-description: 'The paper reading note for PagedAttention'
-image: ''
-tags: [Attention]
-category: 'Paper'
-draft: false 
-lang: 'zh_CN'
----
-
 ## 论文概述
 
 论文标题：**Efficient Memory Management for Large Language  Model Serving with PagedAttention**
