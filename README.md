@@ -1,45 +1,65 @@
-# CS-Notes
+# Large Model
 
-This is a self-learning repo for recording notes for Languages, Operating systems, and etc.
+## Papers
 
-## Cpp
+### Model Architectrue
 
-### Websites
+- Attention is All you need (Transformer)
 
-- [cplusplus.com](https://cplusplus.com/)
+### Attention Acceleration
 
-- [cppreference.com](https://en.cppreference.com/w/)
+- Efficient Memory Management for Large Language Model Serving with PagedAttention
+- FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness
 
-### Books
+### Mixture of Experts
 
-- [现代 C++ 教程: 高速上手 C++ 11/14/17/20](https://changkun.de/modern-cpp/)
+#### Offloading
 
-- [An Introduction to Modern CMake — Modern CMake](https://cliutils.gitlab.io/modern-cmake/README.html)
+- Fidder: CPU-GPU Orchestration for Fast Inference of Mixture-of-Experts Models
+- MoE-Lightning: High-Throughput MoE Inference on Memory-constrained GPUs
+- MOE-INFINITY: Efficient MoE Inference on Personal Machines  with Sparsity-Aware Expert Cache
+- HOBBIT: A Mixed Precision Expert Offloading  System for Fast MoE Inference
 
-## CUDA
+### Quantization
 
-### Kernels
+- LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale
+- GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers
+- AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration
 
-- [Kernels](./CUDA/Kernels)
+### Batching
 
-### Blogs
+#### Request Batching
 
-- [谭升的博客](https://face2ai.com/)
-- [CUDA编程入门极简教程](https://zhuanlan.zhihu.com/p/34587739)
-- [CUDA C Programming Guide 导读](https://zhuanlan.zhihu.com/p/53773183)
+- Orca: A Distributed Serving System for Transformer-Based Generative Models
+- Fairness in Serving Large Language Models
+- Llumnix: Dynamic Scheduling for Large Language Model Serving
 
-## Large Model
-
-### Papers
-
-- [模型架构](./Large%20Model/Architectrue)
-- [需求调度](./Large%20Model/Scheduling)
-- [显存管理](./Large%20Model/Memory)
-- [推理框架](./Large%20Model/Framework)
-
-### Blogs
+## Blogs
 
 - [LLM推理算法简述](https://zhuanlan.zhihu.com/p/685794495)
 
-- [缓存与效果的极限拉扯：从MHA、MQA、GQA到MLA](https://kexue.fm/archives/10091)
+- [从MHA、MQA、GQA到MLA](https://kexue.fm/archives/10091)
 
+# C++
+
+## Websites
+
+- [cplusplus](https://cplusplus.com/)
+
+- [cppreference](https://en.cppreference.com/w/)
+
+## Books
+
+- [Modern C++](https://changkun.de/modern-cpp/)
+
+- [Modern CMake](https://cliutils.gitlab.io/modern-cmake/README.html)
+
+# CUDA
+
+## Kernels
+
+- [Kernels](./CUDA/Kernels)
+
+## Blogs
+
+- [谭升的博客](https://face2ai.com/)
