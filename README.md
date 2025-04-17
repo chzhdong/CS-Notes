@@ -17,7 +17,6 @@
 
 - HOBBIT: A Mixed Precision Expert Offloading  System for Fast MoE Inference
 - Fidder: CPU-GPU Orchestration for Fast Inference of Mixture-of-Experts Models
-- MoE-Lightning: High-Throughput MoE Inference on Memory-constrained GPUs
 - MOE-INFINITY: Efficient MoE Inference on Personal Machines  with Sparsity-Aware Expert Cache
 - fMOE: Fine-Grained Expert Offloading for Large Mixture-of-Experts Serving
 
